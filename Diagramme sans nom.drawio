@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:43:54.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="A91KGF_zoQjAC0ei-e-X" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:54:33.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="aKnfDqhrECilIyT0jR9C" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1908" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -15,11 +15,17 @@
         <mxCell id="yPM042hM-OlVTSqEB7mW-0" value="DIAGRAMME PROJET RESEAU MAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="10" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yPM042hM-OlVTSqEB7mW-1" value="accueil-ivr-fr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yPM042hM-OlVTSqEB7mW-1" value="VOCAL accueil-ivr-fr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-2" target="yPM042hM-OlVTSqEB7mW-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-2" value="1- qui sommes nous?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-3" target="yPM042hM-OlVTSqEB7mW-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-3" value="2- consulter nos offres et services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
@@ -30,17 +36,76 @@
         <mxCell id="yPM042hM-OlVTSqEB7mW-5" value="4- vérifier votre solde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-6" target="yPM042hM-OlVTSqEB7mW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-6" value="5- demander un service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-7" target="yPM042hM-OlVTSqEB7mW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="440" />
+              <mxPoint x="1110" y="440" />
+              <mxPoint x="1110" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-7" value="6- parler à un agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-8" target="yPM042hM-OlVTSqEB7mW-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-8" value="7- Changer la langue en Anglais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-9" target="yPM042hM-OlVTSqEB7mW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yPM042hM-OlVTSqEB7mW-9" value="8- reprendre le vocal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-11" value="VOCAL qui-sommes-nous" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-15" value="VOCAL accueil-ivr-en" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-17" value="AGENT 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-18" value="AGENT 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yPM042hM-OlVTSqEB7mW-7" target="yPM042hM-OlVTSqEB7mW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="500" as="targetPoint" />
+            <mxPoint x="750" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="300" />
+              <mxPoint x="750" y="440" />
+              <mxPoint x="1110" y="440" />
+              <mxPoint x="1110" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-21" value="VOCAL offre-service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPM042hM-OlVTSqEB7mW-23" value="VOCAL new-service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
